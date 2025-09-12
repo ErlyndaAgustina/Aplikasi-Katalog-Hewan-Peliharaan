@@ -76,4 +76,23 @@ final List<Map<String, dynamic>> petData = [
       'Beri pelet/ makanan khusus ikan hias',
     ],
   },
+    {
+    'nama': 'Bam',
+    'jenis': 'Anjing Doberman',
+    'gambar': 'assets/images/dobermen.jpg',
+    'karakteristik': [
+      'Cerdas banget → gampang dilatih, sering dipakai jadi anjing penjaga atau polisi.',
+      'Protektif & setia → kalau udah sayang sama majikan, bakal jadi bodyguard 24/7.',
+      'Aktif & energik → butuh banyak aktivitas biar nggak stres atau rusuh di rumah.',
+      'Waspada → insting alami buat ngelindungi keluarga dan rumah.',
+      'Loyal → punya ikatan emosional kuat dengan pemiliknya.',
+    ],
+    'perawatan': [
+      'Ajak olahraga rutin setiap hari 🏃‍♂️',
+      'Beri makanan bergizi tinggi protein 🍖',
+      'Sisir bulu seminggu sekali 🧴',
+      'Mandikan hanya saat perlu 🚿',
+      'Rutin vaksin & cek kesehatan ke dokter 🏥',
+    ],
+  },
 ];
